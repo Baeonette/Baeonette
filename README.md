@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baeonette!
 - 👀 I enjoy photography/video production, mixing music, coding and going for long drives!
-- 🌱 I’m currently learning Discord.js
+- 🌱 I’m currently learning full stack web development :D
 - 📫 How to reach me baeonette@gmail.com
 
 <!---
